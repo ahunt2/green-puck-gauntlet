@@ -5,4 +5,4 @@ This game was made with Unity and is fairly simple.  The player controls a green
 
 ## Demo
 
-You can play all three levels of Green Puck Gauntlet [here]. (https://sharemygame.com/@ahunt2/green-puck-gauntlet)
+You can play all three levels of Green Puck Gauntlet [here](https://sharemygame.com/@ahunt2/green-puck-gauntlet).
